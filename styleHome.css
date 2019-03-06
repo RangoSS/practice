@@ -1,0 +1,11 @@
+
+body{  font-family: sans-serif;}
+.feauture-items{
+  
+    background-color: bisque;
+    width: 50%;
+    padding: 10px;
+    border-block-end-color: blue;
+    border-bottom: solid;
+
+}
